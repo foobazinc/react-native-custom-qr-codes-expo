@@ -4,3 +4,6 @@
 
 # Dependency directory
 node_modules
+
+# IDEs, Editors
+.idea
